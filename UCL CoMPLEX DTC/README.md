@@ -4,13 +4,6 @@
 These six sessions comprise the first part of the **Advanced Biological Modelling and Bioinformatics (ABMB)** course for students on the [UCL CoMPLEX DTC](https://www.ucl.ac.uk/complex).
 The sessions are focused on the construction and use of models of biological processes, and an introduction to the mathematical tools required therein.
 
-## Viewing course materials
-
-The course materials have been prepared in Jupyter.
-You can view the course materials in an non-iteractive fashion directly on Github, [for example: session 1](notebooks/01_An_introduction_to_modelling.ipynb).
-
-To get an interactive enviroment on your own computer, see the [instructions here](notebooks/00_Viewing_course_materials.ipynb).
-
 ## Aims
 - To discuss the concept of mathematical modelling, and to encourage critical thinking when determining simplifications and assumptions for models.
 - To develop the careful analysis and criticism of models – both those published and those from the students' own work.
