@@ -1,9 +1,7 @@
 # Advanced Biological Modelling and Bioinformatics (ABMB)
-Part 1 - Biological modelling  
-October 2015
 
 ## Introduction to the course
-These six sessions comprise the first part of the **Advanced Biological Modelling and Bioinformatics (ABMB)** course for the 2015 intake of students on the [UCL CoMPLEX DTC](https://www.ucl.ac.uk/complex).
+These six sessions comprise the first part of the **Advanced Biological Modelling and Bioinformatics (ABMB)** course for students on the [UCL CoMPLEX DTC](https://www.ucl.ac.uk/complex).
 The sessions are focused on the construction and use of models of biological processes, and an introduction to the mathematical tools required therein.
 
 ## Viewing course materials
